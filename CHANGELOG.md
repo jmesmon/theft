@@ -1,5 +1,22 @@
 # theft Changes By Release
 
+## v0.4.5 - 2018-10-08
+
+### API Changes
+
+None.
+
+### Bug Fixes
+
+Fixed version for `pkg-config` file, which didn't get updated for
+the 0.4.4 release. (Reported by @richardipsum.)
+
+### Other Improvements
+
+Now installing the `pkg-config` file with mode 0644.
+
+
+
 ## v0.4.4 - 2018-10-06
 
 ### API Changes
